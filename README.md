@@ -79,10 +79,10 @@ A = Programming Assignments, Q = Quizzes
 | Week 9 | Mar 14 |  Spring Recess | 
 | Week 10 | Mar 21	|  Recursion and Running From the Command Line | A, Q
 | Week 11 | Mar 28 |  Python Classes	| A, Q
-| Week 12 | Apr 4 |  Data Visualization: Matplotlib, Scikit-learn, and Plotly | A, Q
+| Week 12 | Apr 4 |  **Unit Testing and Exception Handling** | A, Midterm Presentation Slides
 | Week 13 | Apr 11 | Jupyter Notebook Presentation (Midterm) | Q
-| Week 14 | Apr 18	| Shiny I   | A, Q
-| Week 15 | Apr 25	| Shiny II | A, Q
+| Week 14 | Apr 18	| **Data Visualization: Matplotlib, Scikit-learn, and Plotly**   | A, Q
+| Week 15 | Apr 25	| **Dash** | A, Q
 | Week 16 | May 2	|  Final Project | Final Report
 
 ### Important Dates  
@@ -99,7 +99,7 @@ The programming assignments consist of focused exercises related to each week’
 
 *Quizzes*: 
 
-There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done **“closed book”**: please refrain from consulting any resources including notes, books, the web, devices, or other external media. The same late assignment policy is applied: 15% of the total score will be deducted for every day. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
+There will be several quizzes throughout the semester that will assess your knowledge of the various topics. Quizzes are based on the Jupyter Notebooks. All quizzes are mandatory for all students to take. Importantly, the quizzes should be done **“closed book”**: please refrain from consulting any resources including notes, books, the web, devices, or other external media. The same late assignment policy is applied: 10% of the total score will be deducted for every day. If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
 
 *Midterm*: 
 
