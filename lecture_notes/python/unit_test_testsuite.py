@@ -39,7 +39,7 @@ print('s2 grades:', s2.grades)
 import unittest
 
 
-class StudentTestSuite(unittest.TestCase):
+class StudentTestSuite(unittest.TestCase): # inherit from unittest.TestCase class
 
     # create some students
     a1 = Student('Jack',123)
